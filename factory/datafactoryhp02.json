@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryhp02",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48d46597-f17c-4e6e-9176-d279d15143d1",
+		"tenantId": "8c1f65e4-f992-4d8b-8d2c-393cb6d537c8"
+	}
+}
